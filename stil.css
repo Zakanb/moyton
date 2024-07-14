@@ -1,0 +1,60 @@
+.body {
+
+    background-color: black;
+
+}
+  
+  
+  .h1long {
+    
+font-family: fantasy, Helvetica, sans-serif;
+ 
+font-size: 45px;
+
+
+   color: rgb(157, 243, 70)  ;
+ font-weight: 900;
+  text-align: center;
+ letter-spacing: 10px;
+} 
+  
+.text {
+   line-height: 15 px; 
+text-indent: 14px;
+font-size: 25px;
+}
+.h2cen {
+
+    text-align: center;
+ color: rgb(157, 243, 70);
+ font-size: 45px; 
+} 
+.block {
+
+
+ 
+text-indent: 14px;
+}  
+.span {
+color:  rgba(252, 0, 0, 0.795);
+
+
+}
+.buton {
+text-align:center ;
+    background-color:rgb(157, 243, 70) ;
+color: white;
+text-decoration: none;
+padding: 12px;
+border-radius: 12px 12px 12px 12px
+
+
+
+}
+
+.buton:hover {
+background-color:rgba(3, 3, 3, 0.671) ;
+}
+.buton:active {
+background-color:rgba(192, 115, 255, 0.815) ;
+} 
